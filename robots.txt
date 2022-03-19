@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tris5572.github.io/blog/sitemap.xml
