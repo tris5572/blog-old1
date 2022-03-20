@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
-	<title>三叉創</title>
+	<title>三叉創 - 雑記</title>
 	<subtitle>プログラミングとか自転車とか登山とか。</subtitle>
-	<link href="https://tris5572.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://tris5572.github.io/blog/tags/za-ji/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://tris5572.github.io/blog/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-03-19T00:00:00+00:00</updated>
-	<id>https://tris5572.github.io/blog/atom.xml</id>
+	<id>https://tris5572.github.io/blog/tags/za-ji/atom.xml</id>
 	<entry xml:lang="ja">
 		<title>最初の投稿</title>
 		<published>2022-03-19T00:00:00+00:00</published>
