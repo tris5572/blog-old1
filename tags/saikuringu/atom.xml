@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
-	<title>三叉創</title>
+	<title>三叉創 - サイクリング</title>
 	<subtitle>プログラミングとか自転車とか登山とか。</subtitle>
-	<link href="https://tris5572.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://tris5572.github.io/blog/tags/saikuringu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://tris5572.github.io/blog/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-03-22T00:00:00+00:00</updated>
-	<id>https://tris5572.github.io/blog/atom.xml</id>
+	<id>https://tris5572.github.io/blog/tags/saikuringu/atom.xml</id>
 	<entry xml:lang="ja">
 		<title>雛鶴峠ライド</title>
 		<published>2022-03-22T00:00:00+00:00</published>
@@ -47,34 +47,6 @@
 &lt;p&gt;トレーニング不足が露呈した今回のライド。&lt;&#x2F;p&gt;
 &lt;p&gt;最近走っていた平地のグラベルでは、それはそれで足は使うけど結局のところ短時間の負荷でしかないので、登りでの長時間の負荷に対する能力が完全に退化していた。&lt;&#x2F;p&gt;
 &lt;p&gt;日本ではどこに行くにしても坂はつきものなので、来たるべきシーズンに向けて登りを鍛えていきたいところ。&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="ja">
-		<title>最初の投稿</title>
-		<published>2022-03-19T00:00:00+00:00</published>
-		<updated>2022-03-19T00:00:00+00:00</updated>
-		<link href="https://tris5572.github.io/blog/2022-03-19/" type="text/html"/>
-		<id>https://tris5572.github.io/blog/2022-03-19/</id>
-		<content type="html">&lt;p&gt;最初の投稿ということでひとまずブログについての簡単な紹介。&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h1 id=&quot;konoburogunituite&quot;&gt;このブログについて&lt;&#x2F;h1&gt;
-&lt;p&gt;管理人 tris（トリス） の適当な散文を書き散らすブログである。&lt;&#x2F;p&gt;
-&lt;p&gt;普通のブログは読者の獲得やSEOの関係でジャンルを絞るのが定石であるが、そんなことは気にせず色々なジャンルについて書いていく予定。&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;shu-kuyu-ding-noziyanru&quot;&gt;書く予定のジャンル&lt;&#x2F;h1&gt;
-&lt;h2 id=&quot;puroguraminguxi&quot;&gt;プログラミング系&lt;&#x2F;h2&gt;
-&lt;p&gt;プログラミング系の技術的な記事はこれまで &lt;a href=&quot;https:&#x2F;&#x2F;zenn.dev&#x2F;tris&quot;&gt;Zenn にいくつか書いてきた&lt;&#x2F;a&gt;。最近サボリ気味ではあるけど。&lt;&#x2F;p&gt;
-&lt;p&gt;Zenn は書き味やアクセスの多さ、反響なんかは良いのだけど、読む人が多いということはきちんとしたものを書く必要がある、というプレッシャー的なものを感じてしまい、あまりにも適当なものを書くのは気後れしてしまう。&lt;&#x2F;p&gt;
-&lt;p&gt;そんなわけでちょっとした小ネタなんかを書いていきたい。&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;zi-zhuan-che-xi&quot;&gt;自転車系&lt;&#x2F;h2&gt;
-&lt;p&gt;自分は主にグラベルロードとロードバイクに乗っているのだけれど、これについて情報を発信する場を持っていなかった。Twitter には書くものの、まとまった情報としては扱いづらいので微妙感があった。&lt;&#x2F;p&gt;
-&lt;p&gt;なのでこのブログで、機材のレビューやサイクリングについて書いていきたい。&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;deng-shan-xi&quot;&gt;登山系&lt;&#x2F;h2&gt;
-&lt;p&gt;登山の情報についてはヤマレコに山行記録を上げていて、ある程度の情報発信はできている。&lt;&#x2F;p&gt;
-&lt;p&gt;ヤマレコはまぁまぁ使いやすいSNSだと思うけど、色々と気になる部分があるので、自分で情報発信できる場を持つのは悪いことではないと思う。&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;konoburogudeshi-yong-siteiruji-shu&quot;&gt;このブログで使用している技術&lt;&#x2F;h1&gt;
-&lt;p&gt;技術的には、Rust製の SSG である Zola を使用している。ビルドがとんでもなく速くて良い感じ。&lt;&#x2F;p&gt;
-&lt;p&gt;まだデザインや機能についての詰めが足りないため、継続して手を入れていく予定。&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
-&lt;p&gt;ということでゆるりとやっていく予定なので、気が向いたら読んでもらえればと思う。&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>
