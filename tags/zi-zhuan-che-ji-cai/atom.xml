@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
-	<title>三叉創 - 自転車</title>
+	<title>三叉創 - 自転車機材</title>
 	<subtitle>プログラミングとか自転車とか登山とか。</subtitle>
-	<link href="https://tris5572.github.io/blog/categories/zi-zhuan-che/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://tris5572.github.io/blog/tags/zi-zhuan-che-ji-cai/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://tris5572.github.io/blog/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-04-15T00:00:00+00:00</updated>
-	<id>https://tris5572.github.io/blog/categories/zi-zhuan-che/atom.xml</id>
+	<id>https://tris5572.github.io/blog/tags/zi-zhuan-che-ji-cai/atom.xml</id>
 	<entry xml:lang="ja">
 		<title>Canyon Grail AL</title>
 		<published>2022-04-15T00:00:00+00:00</published>
@@ -86,48 +86,6 @@
 &lt;p&gt;スポーツバイクは頻繁なメンテ・調整が必要なので、そもそも初心者が自分だけでやるのは厳しいところ。手順は動画で見られる時代とは言え、色々と工具も必要だし。&lt;&#x2F;p&gt;
 &lt;p&gt;こういった懸念点はありつつも、モノとしては間違いなく良いので、そのあたりをどう判断するかだと思う。&lt;&#x2F;p&gt;
 &lt;p&gt;個人的には、次にロードバイクを買うときにも Canyon にしよう、と考えているくらい気に入っている。&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="ja">
-		<title>雛鶴峠ライド</title>
-		<published>2022-03-22T00:00:00+00:00</published>
-		<updated>2022-03-22T00:00:00+00:00</updated>
-		<link href="https://tris5572.github.io/blog/2022-03-22/" type="text/html"/>
-		<id>https://tris5572.github.io/blog/2022-03-22/</id>
-		<content type="html">&lt;p&gt;最近平地のグラベルばかり走っていたので、久しぶりの登りということで&lt;strong&gt;雛鶴峠&lt;&#x2F;strong&gt;に行ってきた。&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;h1 id=&quot;gai-yao&quot;&gt;概要&lt;&#x2F;h1&gt;
-&lt;p&gt;雛鶴峠は山梨県道35号線（四日市場上野原線）にある峠。&lt;&#x2F;p&gt;
-&lt;p&gt;この道は国道20号甲州街道と国道413号道志みちの間にある、旧秋山村を通るとてもマイナーな県道。個人的には山梨方面からクルマで帰宅するとき、国道の両方が渋滞でどうしようもないときに最終手段で通る道として位置付けている。&lt;&#x2F;p&gt;
-&lt;p&gt;というのも、クルマで通るのはちょっと微妙だから。全線2車線というわけではなく道が狭いところがあったり、東の神奈川県境を越えてからの道がどれもとても微妙だったりして運転に気を使う。上野原や藤野に出ても渋滞にハマるし、道志みち側はちょっと戻って青根に出るか、クソ狭い牧馬（まきめ）峠を抜けるかという微妙な選択。国道412号のプレジャーフォレストまでそこそこ狭い道で抜けるのが有力な選択肢ではあるものの、結局その先も混んでいるという。&lt;&#x2F;p&gt;
-&lt;p&gt;そんな微妙っぷりなので、&lt;strong&gt;クルマの通行量がかなり少なく、自転車で走るのにはかなり適している&lt;&#x2F;strong&gt;。国道でクルマに気を付けながら走るより、こちらを好んでいる人も多いっぽく、そこそこの人数のローディを見かける。ただ、東西どちらもアクセスが中途半端だったり、特に東側はアプローチのためにいくつかの坂を越える必要があったりするので、通好みの道ではある。&lt;&#x2F;p&gt;
-&lt;p&gt;ということでこの雛鶴峠の東側をトレーニングがてらグラベルロードで走ってきた。&lt;&#x2F;p&gt;
-&lt;iframe height=&#x27;405&#x27; width=&#x27;590&#x27; frameborder=&#x27;0&#x27; allowtransparency=&#x27;true&#x27; scrolling=&#x27;no&#x27; src=&#x27;https:&#x2F;&#x2F;www.strava.com&#x2F;activities&#x2F;6857357354&#x2F;embed&#x2F;4bbc516f3d830144d74d0f690ba1a670bb7c7163&#x27;&gt;&lt;&#x2F;iframe&gt;
-&lt;p&gt;今回の一番の目的は、Grail でいま履いているグラベルタイヤの性能測定。もうちょっと暖かくなったらグラベル向けではなく舗装路寄りのタイヤに換装する予定なので、どれくらい性能が変わったかを調べるための記録を残してきた。&lt;&#x2F;p&gt;
-&lt;p&gt;まぁ、記録は体調による影響がとても大きいので、結局は参考レベルにしかならないけど。&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;dao-zhong&quot;&gt;道中&lt;&#x2F;h1&gt;
-&lt;h2 id=&quot;fu-ma-tian-noteamukyo&quot;&gt;伏馬田のTeamUKYO&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;2022&#x2F;2022-03-22a.jpg&quot; alt=&quot;TeamUKYOベース&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;道志みちからのアプローチルートのひとつである伏馬田には、廃校を利用した TeamUKYO の拠点がある。&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;ju-suo-de-na15-nodeng-ri&quot;&gt;局所的な15%の登り&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;2022&#x2F;2022-03-22d.jpg&quot; alt=&quot;15%&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;雛鶴峠への道は、秋山トンネルから新雛鶴トンネルまで平均すると&lt;strong&gt;12km・2.8%程度&lt;&#x2F;strong&gt;になる。この数字だけだとゆるそうな感じだけど、アップダウンを繰り返しながら高度を上げていくので、&lt;strong&gt;実際の登りはそれより結構キツい&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
-&lt;p&gt;その途中、局所的な15%の勾配が出てくるポイントがある。写真の奥、土嚢と橋の向こうがそれ。短いから何とかなるけど。&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;chu-he-shen-she&quot;&gt;雛鶴神社&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;2022&#x2F;2022-03-22c.jpg&quot; alt=&quot;雛鶴神社&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;新雛鶴トンネルが近付いて最後のキツい登り（1km・7%）の入り口にある神社。地名の由来となっている雛鶴姫らが祀られていて、石像まである。&lt;&#x2F;p&gt;
-&lt;p&gt;ちなみにここを過ぎると左手にこれから走る道が見えるんだけど、すごく上の&lt;strong&gt;見上げる高さ&lt;&#x2F;strong&gt;。ここまで強烈に心を折ってくる道はなかなかお目にかかれない。&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;xin-chu-he-tonneru-chu-he-sang&quot;&gt;新雛鶴トンネル（雛鶴峠）&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;img src=&quot;..&#x2F;images&#x2F;2022&#x2F;2022-03-22b.jpg&quot; alt=&quot;新雛鶴トンネル&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;峠のトンネルの入口になんとか到着。数字的には大した峠ではないはずなんだけど、めちゃくちゃ疲れた。&lt;&#x2F;p&gt;
-&lt;p&gt;久々の登りだからとか、グラベルタイヤなので走行抵抗が大きいとか、補給不足だったとか色々あるけど、結局は&lt;strong&gt;トレーニング不足&lt;&#x2F;strong&gt;が大きい。ちゃんと鍛えないとダメだわ。&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;gui-ridao&quot;&gt;帰り道&lt;&#x2F;h2&gt;
-&lt;p&gt;奥まった場所にある雛鶴峠から帰るためにはいくつもの坂を越える必要があるんだけど、足が売り切れているのでギアを一番軽くしてジリジリ登っていくことしかできない。ジョギング程度の速度しか出ない。&lt;&#x2F;p&gt;
-&lt;p&gt;そして途中の登りで太腿が攣りそうになって難儀。何とか下車して本格的な攣りは回避したけどヤバかった。右が攣って回復したら次は左が攣って、帰れるかどうか心配になった。&lt;&#x2F;p&gt;
-&lt;h1 id=&quot;matome&quot;&gt;まとめ&lt;&#x2F;h1&gt;
-&lt;p&gt;トレーニング不足が露呈した今回のライド。&lt;&#x2F;p&gt;
-&lt;p&gt;最近走っていた平地のグラベルでは、それはそれで足は使うけど結局のところ短時間の負荷でしかないので、登りでの長時間の負荷に対する能力が完全に退化していた。&lt;&#x2F;p&gt;
-&lt;p&gt;日本ではどこに行くにしても坂はつきものなので、来たるべきシーズンに向けて登りを鍛えていきたいところ。&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>
